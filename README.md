@@ -60,3 +60,7 @@ The Service Provider may update these Terms from time to time. Changes will be p
 ## Contact
 
 Questions about these Terms? Email Eliteviber@outlook.com.
+
+---
+
+[Privacy Policy](https://faruqbatula.github.io/Reroll-Privacy/)
