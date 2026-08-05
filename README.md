@@ -1,11 +1,10 @@
-# Reroll-Terms
-Terms &amp; Conditions for Reroll
+# Terms & Conditions
 
-Effective date: 17 July 2026
+Effective date: 5 August 2026
 
-These Terms & Conditions apply to the Reroll app for mobile devices, together with any related services operated by Faruq Batula (the "Service Provider"). Faruq Batula is referred to as the "Service Provider" and Reroll as the "Application".
+These Terms & Conditions apply to the Reroll app for mobile devices, together with any related services operated by Faruq Batula (the "Service Provider"). Reroll is referred to as the "Application".
 
-By downloading or using the Application, you agree to these Terms. Please read them carefully before using the Application.
+By downloading or using the Application, you agree to these Terms. Please read them carefully.
 
 ## License to use the Application
 
@@ -17,19 +16,25 @@ The Service Provider retains all intellectual property rights in the Application
 
 ## Age requirement
 
-The Application is rated 17+ and is intended for a mature audience. By using the Application you represent that you are legally permitted to use it in your jurisdiction and meet the applicable minimum age.
+The Application is rated 18+ and is intended for a mature audience. By using the Application you represent that you are legally permitted to use it in your jurisdiction and meet the applicable minimum age.
 
-## Content and on-device processing
+## Typed actions and AI-written content
 
-The Application runs entirely on your device. On supported devices, story content may be generated on-device using Apple Intelligence. The Application does not host, upload, publish, or share your content to the Service Provider or to other users. Any content you choose to export or share (for example, a life-summary card) is shared by you, through your own device, at your discretion.
+The Application generates story content using AI. On iPhones with Apple Intelligence, this happens entirely on your device. On iPhones without Apple Intelligence, the actions you type are sent to the Service Provider's server to be written and are then discarded — see the Privacy Policy for detail on what is sent and what is kept.
+
+You agree not to submit typed actions that are unlawful, that depict the sexual exploitation of minors, or that are intended to elicit content of that kind. The Application applies automated safety filtering to both what you type and what is written back, and may decline to act on a submission. Repeated attempts to defeat that filtering may result in your access to typed actions being limited.
+
+AI-written content is fiction, generated automatically, and may be inaccurate, implausible, or unexpected. It does not represent the views of the Service Provider and should not be relied upon as advice of any kind.
 
 ## Purchases
 
-The Application is free to download and play. It offers an optional subscription (Reroll Plus) and in-app purchases. All payments are processed by Apple through the App Store under Apple's terms. The Service Provider does not receive or store your payment details. Subscription pricing and terms are shown to you before purchase.
+The Application is free to download and play. It offers an optional subscription (Reroll Plus) and in-app purchases. All payments are processed by Apple through the App Store under Apple's terms. The Service Provider does not receive or store your payment details. Subscription pricing, length and renewal terms are shown to you before purchase.
+
+Where a subscription is described as providing unlimited typed actions, a fair-use limit applies as stated at the point of purchase.
 
 ## Updates and availability
 
-The Service Provider may update the Application from time to time, and operating-system requirements may change. The Service Provider does not guarantee ongoing updates or compatibility with every device or OS version, and may cease supporting earlier versions or discontinue the Application at any time. Upon discontinuation, the license granted to you ends and you should delete the Application from your device.
+The Service Provider may update the Application from time to time, and operating-system requirements may change. The Service Provider does not guarantee ongoing updates, uninterrupted availability, or compatibility with every device or OS version, and may cease supporting earlier versions or discontinue the Application at any time. Upon discontinuation, the license granted to you ends and you should delete the Application from your device.
 
 ## Limitation of Liability
 
@@ -59,8 +64,4 @@ The Service Provider may update these Terms from time to time. Changes will be p
 
 ## Contact
 
-Questions about these Terms? Email Eliteviber@outlook.com.
-
----
-
-[Privacy Policy](https://faruqbatula.github.io/Reroll-Privacy/)
+Questions about these Terms? Email Eliteviber@outlook.com
